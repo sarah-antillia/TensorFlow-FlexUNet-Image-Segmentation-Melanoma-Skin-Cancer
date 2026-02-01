@@ -321,7 +321,7 @@ Toshiyuki Arai <br>
 Tensorflow-Tiled-Image-Segmentation-Augmented-Skin-Cancer</a>
 <br>
 <br>
-<b>2. TensorFlow-FlexUNet-Image-Segmentation-Model</b><br>
+<b>2. TensorFlow-FlexUNet-Image-Segmentation-Skin-Cancer</b><br>
 Toshiyuki Arai <br>
 <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Skin-Cancer">
 TensorFlow-FlexUNet-Image-Segmentation-Skin-Cancer
